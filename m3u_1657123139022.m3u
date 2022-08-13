@@ -1,0 +1,9 @@
+#EXTM3U x-tvg-url="https://epg.pm/epg.xml"
+#EXTINF:-1 tvg-id="" tvg-country="馬來西亞" tvg-language="粵語" tvg-logo="https://epg.pm/media/images/channel/2017/03/04/large/20170304160622206825_53.png" group-title="電影",[HD]30A Sidewalks (720p)
+https://epg.pm/stream/67f4f37fc8a98b04d749b89a7ea2c72f97f189f2e3ea53eed25ab6e6b80b1abb.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="馬來西亞" tvg-language="粵語" tvg-logo="https://epg.pm/media/images/channel/2017/03/04/large/20170304160622206825_53.png" group-title="電影",[HD]30A Investment Pitch (720p)
+https://epg.pm/stream/7f044254927f45cc5cffae12c619a8eb62574ae1925c369598f54430cf09e564.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="馬來西亞" tvg-language="粵語" tvg-logo="https://epg.pm/media/images/channel/2017/03/04/large/20170304160622206825_53.png" group-title="電影",[VGA]30號[853*480]
+https://epg.pm/stream/6cf0de38ecdae5e49f587f3a9f20ada847694740391f3aa49c49c3aa75e303f7.mkv
+#EXTINF:-1 tvg-id="" tvg-country="馬來西亞" tvg-language="粵語" tvg-logo="https://epg.pm/media/images/channel/2017/03/04/large/20170304160622206825_53.png" group-title="電影",[HD]30A Darcizzle Offshore (720p)
+https://epg.pm/stream/7cfca2e59a9193f23a5b4c83158657c2753378439fecb8eb131aa28c14e1bdca.m3u8
