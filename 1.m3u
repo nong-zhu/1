@@ -7,7 +7,6 @@ http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" tvg-id="131" tvg-name="MIGU TVB剧场" group-title="港澳及国外",MIGU TVB剧场    
 http://117.148.179.134/PLTV/88888888/224/3221231733/index.m3u8
- 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" tvg-id="6559" tvg-name="风云剧场" group-title="CCTV",风云剧场
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" tvg-id="6562" tvg-name="怀旧剧场" group-title="CCTV",怀旧剧场
@@ -20,15 +19,11 @@ http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" tvg-id="6563" tvg-name="兵器科技" group-title="CCTV",兵器科技
 http://117.148.179.163/PLTV/88888888/224/3221231573/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" tvg-id="60" tvg-name="南方卫视" group-title="卫视",南方卫视
 https://epg.pm/stream/857d85594fb6b61784af9ce2aaa40fff4824214173889cee012a38993e83f751.m3u8
-
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" tvg-id="6555" tvg-name="梨园" group-title="其他",中数梨园
 http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" tvg-id="51" tvg-name="吉林东北戏曲" group-title="其他",吉林东北戏曲
 http://stream1.jlntv.cn/dbxq/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" tvg-id="47" tvg-name="河南移动戏曲" group-title="其他",河南移动戏曲
-http://123.6.9.146/live/jz-henanliyuan/live.m3u8
-
- 
+http://123.6.9.146/live/jz-henanliyuan/live.m3u8 
